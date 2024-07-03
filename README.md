@@ -6,3 +6,7 @@ This bash script decrypts plaintext ciphertexts in Caesar, taking into account a
 1. Download
 2. chmod +x ROT.SH
 3. ./ROT.sh
+
+Preview:
+
+![](https://github.com/IronKn1ght/RottenCaesar/blob/main/1.png)
