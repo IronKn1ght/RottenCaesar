@@ -10,3 +10,4 @@ This bash script decrypts plaintext ciphertexts in Caesar, taking into account a
 Preview:
 
 ![](https://github.com/IronKn1ght/RottenCaesar/blob/main/1.png)
+![](https://github.com/IronKn1ght/RottenCaesar/blob/main/2.png)
